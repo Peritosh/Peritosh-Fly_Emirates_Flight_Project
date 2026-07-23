@@ -149,7 +149,7 @@ The analysis provides insights into:
 
 Aspiring Data Analyst
 
-- **LinkedIn:** https://www.linkedin.com/in/peritosh-sinha-SSTC/
+- **LinkedIn:** https://www.linkedin.com/in/peritosh-sinha
 - **GitHub:** https://github.com/Peritosh
 
 ---
